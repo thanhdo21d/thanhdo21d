@@ -15,11 +15,10 @@
 - 🏦 I'm Fullstack  Engineering web Developer working for a FPTS
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for **.Fpts**
-- 💻 I use daily: **.js**, **.ts**, **.expressJS**, **.sql**
+- 💻 I use daily: **.C#**,**.js**, **.ts**, **.expressJS**, **.sql**
 - 📖 I am currently reading **Designing Data Intensive Application**
 
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: **.dovt**
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -51,7 +50,7 @@
 <br/>
 <br/>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.35 % as on ⏰ 2-Oct-2023
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.35 % as on ⏰ 2-Oct-2025
 
 ---
 
