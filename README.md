@@ -15,7 +15,7 @@
 - 🏦 I'm Fullstack  Engineering web Developer working for a FPTS
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for **.Fpts**
-- 💻 I use daily: **.C#**,**.js**, **.ts**, **.expressJS**, **.sql**
+- 💻 I use daily: **.C#**,**.js**, **.ts**, **.php**, **.expressJS**, **.sql**
 - 📖 I am currently reading **Designing Data Intensive Application**
 
 - 👯 We can connect to play some games of Chess ♟
